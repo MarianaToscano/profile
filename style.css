@@ -6,11 +6,15 @@ h1 {
     font-weight: 900;
     font-family: 'Amatic SC', cursive;
     text-align: center;
+
+
 }
 
 #imghermione{
     border-radius: 50%;
     text-align: center;
+
+
     box-shadow: 5px 5px 10px black;
 }
 
@@ -20,6 +24,8 @@ body {
     font-size: 25px;
     font-family: 'Amatic SC', cursive;
     text-align: center;
+
+    
     font-weight: 500;
     font-weight: bold;
 }
